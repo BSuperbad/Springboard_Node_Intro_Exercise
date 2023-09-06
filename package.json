@@ -1,0 +1,22 @@
+{
+  "name": "node-intro-exercise",
+  "version": "1.0.0",
+  "description": "36.4 Springboard Node Intro Exercise",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BSuperbad/Springboard_Node_Intro_Exercise.git"
+  },
+  "author": "Brianne Wilhelmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BSuperbad/Springboard_Node_Intro_Exercise/issues"
+  },
+  "homepage": "https://github.com/BSuperbad/Springboard_Node_Intro_Exercise#readme",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
